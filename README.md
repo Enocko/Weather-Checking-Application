@@ -1,7 +1,3 @@
-Here’s a well-structured **README.md** for your GitHub repository:
-
----
-
 # Weather Checking Application
 
 A Python-based application that provides real-time weather information for any city worldwide. The application retrieves weather data, including temperature and conditions (e.g., sunny, rainy, or cloudy), using the OpenWeatherMap API.
